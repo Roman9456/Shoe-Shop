@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an e-commerce website for shoes. 🥿👟 My task was to create a fully functional application that utilizes the designs and backend provided.
+This project is an e-commerce website for shoes built using **React**. 🥿👟 My task was to create a fully functional application that utilizes the designs and backend provided.
 
 ## Application Structure
 
@@ -94,7 +94,7 @@ The application navigation includes links to:
 
 ## Обзор
 
-Этот проект — это интернет-магазин обуви. 🥿👟 Моя задача была — создать полностью функциональное приложение, которое использует предоставленные дизайны и бэкенд.
+Этот проект — это интернет-магазин обуви, созданный с использованием **React**. 🥿👟 Моя задача заключалась в том, чтобы создать полностью функциональное приложение, которое использует предоставленные дизайны и бэкенд.
 
 ## Структура приложения
 
