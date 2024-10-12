@@ -44,7 +44,7 @@ The backend code is located in the `backend` folder.
 
 1. Navigate to the Project Directory:  
    ```bash
-   cd frontend
+   cd ..
    ```
 
 2. **Install Dependencies:**
@@ -136,7 +136,7 @@ The application navigation includes links to:
 
 1. Перейдите в директорию проекта:  
    ```bash
-   cd frontend
+   cd ..
    ```
 
 2. **Установите зависимости:**
